@@ -1,4 +1,4 @@
-# Premiere League Table Positions
+# Premiere League Positions
 
 ## Scraping DiarioAS
 - Web scraping (web harvesting or web data extraction) is data scraping used for extracting data from websites.
