@@ -10,3 +10,6 @@
 ##### [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/ "Heading link")
 ##### [Requests](https://requests.readthedocs.io/en/master/ "Heading link")
 ##### [Pandas](https://pandas.pydata.org/ "Heading link")
+
+## Star, Fork, Clone & Contribute
+- Feel free to contribute on this repository. If my work helps you, please give me back with a star. This means a lot to me and keeps me going!
